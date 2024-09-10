@@ -1,4 +1,7 @@
-# Variables that were changed.
+# Variables that were changed to obfuscate the script. Windows defender should not block the script.
+# Set-ExecutionPolicy Bypass -Scope Process
+# .\winpeas.ps1
+
 # $TimeStamp > $Clock 
 # $FullCheck > $Everything
 # $Excel > $Spreadsheet
