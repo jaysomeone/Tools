@@ -1,8 +1,13 @@
-
+# Variables that were changed.
 # $TimeStamp > $Clock 
 # $FullCheck > $Everything
 # $Excel > $Spreadsheet
-
+# returnHotFixID > sysUpdate
+# Start-ACLCheck > aCheck
+# UnquotedServicePathCheck > dirScan
+# TimeElapsed > funcClock
+# Search-Excel > funcSpreadsheet
+# Write-Color > funcColor
 
 [CmdletBinding()]
 param(
